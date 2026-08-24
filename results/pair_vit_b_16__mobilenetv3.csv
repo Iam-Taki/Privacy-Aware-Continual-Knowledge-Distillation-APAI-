@@ -1,0 +1,5 @@
+teacher,student,method,TaskA_retention_%,TaskA_acc,TaskB_acc
+vit_b_16,mobilenetv3,naive,67.88,0.6587,0.9583
+vit_b_16,mobilenetv3,ewc,81.83,0.7941,0.9259
+vit_b_16,mobilenetv3,lwf,75.15,0.7292,0.9787
+vit_b_16,mobilenetv3,bn_freeze,100.0,0.9704,0.8685

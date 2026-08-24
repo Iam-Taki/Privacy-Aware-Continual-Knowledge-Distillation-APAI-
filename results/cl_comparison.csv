@@ -1,0 +1,5 @@
+student,method,TaskA_retention_%,TaskA_acc,TaskB_acc
+mobilenetv3,bn_freeze,100.0,0.9818,0.8861
+mobilenetv3,lwf,84.82,0.8328,0.9583
+mobilenetv3,ewc,76.36,0.7497,0.912
+mobilenetv3,naive,74.28,0.7292,0.9454

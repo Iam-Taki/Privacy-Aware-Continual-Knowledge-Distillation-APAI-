@@ -1,0 +1,5 @@
+teacher,student,method,TaskA_retention_%,TaskA_acc,TaskB_acc
+vit_b_16,efficientnet_b0,naive,27.84,0.2708,0.9657
+vit_b_16,efficientnet_b0,ewc,59.65,0.5802,0.9565
+vit_b_16,efficientnet_b0,lwf,92.05,0.8953,0.9657
+vit_b_16,efficientnet_b0,bn_freeze,100.0,0.9727,0.9102

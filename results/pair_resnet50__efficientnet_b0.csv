@@ -1,0 +1,5 @@
+teacher,student,method,TaskA_retention_%,TaskA_acc,TaskB_acc
+resnet50,efficientnet_b0,naive,41.86,0.4039,0.9731
+resnet50,efficientnet_b0,ewc,95.52,0.9215,0.9667
+resnet50,efficientnet_b0,lwf,76.89,0.7418,0.9704
+resnet50,efficientnet_b0,bn_freeze,100.0,0.9647,0.9046
